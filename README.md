@@ -26,5 +26,3 @@ src="https://img.shields.io/github/followers/Udaya-Pujari-194?logo=github&style=
 <a href="http://www.github.com/Udaya-Pujari-194"><img src="https://github-readme-stats.vercel.app/api?username=Udaya-Pujari-194&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=a855f7&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="Udaya-Pujari-194's GitHub stats" /></a>
 
 <a href="http://www.github.com/Udaya-Pujari-194"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Udaya-Pujari-194&stroke=a855f7&background=ffffff&ring=84cc16&fire=84cc16&currStreakNum=a855f7&currStreakLabel=84cc16&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="https://github.com/Udaya-Pujari-194" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaya-Pujari-194&langs_count=10&title_color=84cc16&text_color=a855f7&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
